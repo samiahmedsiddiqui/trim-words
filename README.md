@@ -16,13 +16,13 @@ yarn add trim-words
 
 ## Usage
 
-Import Package in `Node.js`
+Import Package in `Node.js`.
 
 ```
 var trimWords = require('trim-words');
 ```
 
-Import Package in `React`
+Import Package in `React`.
 
 ```
 import trimWords from 'trim-words';
