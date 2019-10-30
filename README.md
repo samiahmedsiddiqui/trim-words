@@ -80,4 +80,4 @@ This package is tested with the `Node.js` and `React` Application.
 [travis-url]: https://travis-ci.com/samiahmedsiddiqui/trim-words
 
 [dependency-image]: https://img.shields.io/david/samiahmedsiddiqui/trim-words.svg
-[dependency-url]: https://img.shields.io/david/samiahmedsiddiqui/trim-words
+[dependency-url]: https://david-dm.org/samiahmedsiddiqui/trim-words
