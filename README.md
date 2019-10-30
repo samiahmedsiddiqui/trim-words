@@ -1,6 +1,6 @@
 # trim-words
 
-[![NPM version][npm-image]][npm-url] [![Downloads][downloads-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][dependency-image]][dependency-url]
+[![NPM version][npm-image]][npm-url] [![Downloads][downloads-image]][npm-url] [![Build Status][travis-image]][travis-url] [![AppVeyor Build Status][appveyor-image]][appveyor-url] [![Dependency Status][dependency-image]][dependency-url]
 
 Trims text to a certain number of words.
 
@@ -78,6 +78,9 @@ This package is tested with the `Node.js` and `React` Application.
 
 [travis-image]: https://img.shields.io/travis/com/samiahmedsiddiqui/trim-words.svg
 [travis-url]: https://travis-ci.com/samiahmedsiddiqui/trim-words
+
+[appveyor-url]: https://ci.appveyor.com/project/samiahmedsiddiqui/trim-words
+[appveyor-image]: https://img.shields.io/appveyor/ci/samiahmedsiddiqui/trim-words.svg
 
 [dependency-image]: https://img.shields.io/david/samiahmedsiddiqui/trim-words.svg
 [dependency-url]: https://david-dm.org/samiahmedsiddiqui/trim-words
