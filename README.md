@@ -76,11 +76,11 @@ This package is tested with the `Node.js` and `React` Application.
 [npm-url]: https://www.npmjs.com/package/trim-words
 [downloads-image]: https://img.shields.io/npm/dm/trim-words.svg
 
-[travis-image]: https://img.shields.io/travis/com/samiahmedsiddiqui/trim-words.svg
+[travis-image]: https://img.shields.io/travis/com/samiahmedsiddiqui/trim-words.svg?label=travis-ci
 [travis-url]: https://travis-ci.com/samiahmedsiddiqui/trim-words
 
 [appveyor-url]: https://ci.appveyor.com/project/samiahmedsiddiqui/trim-words
-[appveyor-image]: https://img.shields.io/appveyor/ci/samiahmedsiddiqui/trim-words.svg
+[appveyor-image]: https://img.shields.io/appveyor/ci/samiahmedsiddiqui/trim-words.svg?label=appveyor
 
 [dependency-image]: https://img.shields.io/david/samiahmedsiddiqui/trim-words.svg
 [dependency-url]: https://david-dm.org/samiahmedsiddiqui/trim-words
