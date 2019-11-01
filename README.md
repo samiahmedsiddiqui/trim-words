@@ -58,11 +58,11 @@ console.log('Trimmed Text is: ', trimmedText);
 
 ## Parameters
 
-| Attributes | Type | Required | Description |
-| ----------- | ----- | ----------- | ------------- |
-| text | String | Yes | Text to trim. |
-| numWords | String | No | Number of words.<br><br> Default value is `55`. |
-| more | String | No | What to append if `text` needs to be trimmed.<br><br> Default `…` |
+| Attributes | Type | Required | Default | Description |
+|-------------|:-----:|:-----------:|:--------:|--------------|
+| text | String | Yes | | Text to trim. |
+| numWords | Integer | No | `55` | Number of words. |
+| more | String | No | `&hellip;` | What to append if  the `text` needs to be trimmed. |
 
 ## Return
 
