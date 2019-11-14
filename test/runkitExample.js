@@ -6,5 +6,3 @@ var trimmedText = trimWords(text, 60, '...');
 
 console.log(text);
 console.log(trimmedText);
-
-process.exit();
