@@ -3,9 +3,13 @@
 var phpTrim = require('trim-php');
 
 function trimWords(text, numWords, more) {
+  var sep = ' ';
+  var wordsArray = [];
+
   if (!numWords) {
     numWords = 55;
   }
+
   if (!more) {
     more = '&hellip;';
   }
@@ -15,9 +19,7 @@ function trimWords(text, numWords, more) {
   text = text.replace(/<[^>]*>/g, '');
   text = phpTrim.trimPhp(text);
 
-  var wordsArray = text.split(/[\n\r\t ]+/, numWords + 1);
-  var sep = ' ';
-
+  wordsArray = text.split(/[\n\r\t ]+/, numWords + 1);
   if (wordsArray.length > numWords) {
     wordsArray.pop();
     text = wordsArray.join(sep);
