@@ -1,5 +1,12 @@
 # trim-words changelog
 
+## 2.0.0 - Apr 30, 2021
+
+### Enhancement
+
+- Migrated from `JS` to `TS`
+- Strip `style` and `script` content with tags
+
 ## 1.2.1 - Nov 01, 2019
 
 ### Fix
